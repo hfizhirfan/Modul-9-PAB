@@ -49,5 +49,5 @@ const Router = () => {
         </Stack.Navigator>
     )
 }
-
 export default Router
+

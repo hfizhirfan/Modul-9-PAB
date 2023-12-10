@@ -1,3 +1,4 @@
+
 import { Text, Box, Textarea, TextareaInput, FormControl, FormControlLabel, InputField, HStack, VStack } from "@gluestack-ui/themed";
 import { Input as GlueInput } from "@gluestack-ui/themed";
 import React from "react";
@@ -32,3 +33,4 @@ const Input = ({ dropdown, textarea, width, height, fontSize, label, value, secu
 };
 
 export default Input;
+

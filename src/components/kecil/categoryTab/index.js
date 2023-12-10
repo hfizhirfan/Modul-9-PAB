@@ -1,3 +1,4 @@
+
 import React from 'react'
 import {Text, Pressable} from "@gluestack-ui/themed"
 
@@ -10,3 +11,4 @@ const CategoryTab = ({padding, title, onPress, fontSize, margin}) => {
 }
 
 export default CategoryTab;
+
